@@ -52,7 +52,7 @@ And you will get the keywords output in the generative 'example/keywords.txt'.
 
 The dataset contains 1000 documents from sina social news. We can find it performs quite well as the following result shows, which is part of the output.
 
-![seg_res](https://github.com/laserwave/Tfidf4ZH/blob/master/images/seg.png)
+![seg_res](https://github.com/laserwave/Tfidf/blob/master/images/seg.png)
 
 Format of input
 ================
